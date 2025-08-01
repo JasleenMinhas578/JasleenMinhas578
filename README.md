@@ -6,7 +6,7 @@
 🎓 I'm currently pursuing my **Master's in Computer Science** at **Memorial University of Newfoundland**.  
 🏅 Graduated as a **Gold Medalist** in **Bachelor of Engineering (Computer Science - AI & ML specialization)** from **Chandigarh University**, 2024.  
 💼 Industry Experience:
-- **Business Analyst** at **Sunlife**
+- **Data Analyst** at **Sunlife**
 - **Data Integration & Visualization Developer Intern** at **Emerson**
 
 📊 I'm passionate about **working with data** — uncovering insights, building intelligent systems, and creating impactful visualizations.  
@@ -24,19 +24,6 @@
 ![Data Visualization](https://img.shields.io/badge/-Data%20Visualization-1e90ff?style=flat)
 ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-ff6f61?style=flat&logo=tensorflow&logoColor=white)
 ![Data Engineering](https://img.shields.io/badge/-Data%20Engineering-4caf50?style=flat)
-
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=jasleenminhas&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=jasleenminhas&theme=radical" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jasleenminhas&layout=compact&theme=radical" />
-</p>
 
 ---
 
