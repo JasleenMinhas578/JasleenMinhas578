@@ -1,7 +1,7 @@
 
 # Hi there, I'm Jasleen Minhas 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=jasleenminhas&color=blueviolet)
+![Profile Views](https://komarev.com/ghpvc/?username=JasleenMinhas578&color=blueviolet)
 
 🎓 I'm currently pursuing my **Master's in Computer Science** at **Memorial University of Newfoundland**.  
 🏅 Graduated as a **Gold Medalist** in **Bachelor of Engineering (Computer Science - AI & ML specialization)** from **Chandigarh University**, 2024.  
